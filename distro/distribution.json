@@ -20,7 +20,7 @@
           "artifact": {
             "size": 4464068,
             "MD5": "ff6f0650ff84d4c8e03da9a4f536d9e1",
-            "url": "https://raw.githubusercontent.com/smartsims/Launcher/master/distro/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2855/forge-1.12.2-14.23.5.2855-universal.jar"
+            "url": "https://raw.githubusercontent.com/smartsims/Launcher/master/distro/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2855-universal.jar"
           },
           "subModules": [
             {
@@ -30,7 +30,7 @@
               "artifact": {
                 "size": 10873,
                 "MD5": "814f52398b6ebf70d22571307d2298eb",
-                "url": "https://raw.githubusercontent.com/smartsims/Launcher/master/distro/repo/versions/1.12.2-forge-14.23.5.2855/1.12.2-forge-14.23.5.2855.json"
+                "url": "https://raw.githubusercontent.com/smartsims/Launcher/master/distro/repo/versions/1.12.2-forge-14.23.5.2854/1.12.2-forge-14.23.5.2855.json"
               }
             },
             {
