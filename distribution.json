@@ -9,11 +9,11 @@
   "servers": [
     {
       "id": "poris-1.12.2",
-      "name": "poris (Minecraft 1.12.2)",
-      "description": "poris Running Minecraft 1.12.2 (Forge v14.23.5.2855)",
-      "icon": null,
+      "name": "포리스온라인",
+      "description": "포리스온라인 메인서버 입니다.",
+      "icon": "https://raw.githubusercontent.com/smartsims/Launcher/master/porislogo.png?raw=true",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "61.109.20.223:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
