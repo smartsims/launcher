@@ -508,9 +508,9 @@
           "name": "GuiMainMenu.txt",
           "type": "File",
           "artifact": {
-            "size": 2245,
+            "size": 3789,
             "url": "https://raw.githubusercontent.com/smartsims/Launcher/master/servers/poris-1.12.2/files/config/fancymenu/customization/GuiMainMenu.txt",
-            "MD5": "E0EE804A080979C2E0CC1F906A5D6E2F",
+            "MD5": "15C89040497FEA268434C490BA0F8557",
             "path": "config/fancymenu/customization/GuiMainMenu.txt"
           }
         }
