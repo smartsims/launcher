@@ -15,10 +15,10 @@ customization {
   path = config/fancymenu/animations/poris/main.png
   orientation = top-left
   x = -1
-  width = 1280
+  width = 436
   action = addtexture
-  y = 0
-  height = 720
+  y = -2
+  height = 250
 }
 
 customization {
@@ -107,5 +107,78 @@ customization {
   backgroundnormal = config/fancymenu/button/4.png
   value = 
   height = 121
+}
+
+customization {
+  orientation = top-left
+  buttonaction = opengui
+  x = 45
+  width = 83
+  action = addbutton
+  y = 193
+  backgroundhovered = config/fancymenu/button/1.png
+  description =  설정을 하시려면 클릭하세요 !
+  label = 
+  backgroundnormal = config/fancymenu/button/1.png
+  value = net.minecraft.client.gui.GuiOptions
+  height = 40
+}
+
+customization {
+  showname = true
+  orientation = top-left
+  crouching = true
+  x = 25
+  slim = false
+  action = addentity
+  y = 224
+  scale = 30
+  playername = %playername%
+  parrot = true
+}
+
+customization {
+  orientation = top-left
+  buttonaction = joinserver
+  x = 11
+  width = 91
+  action = addbutton
+  y = 119
+  backgroundhovered = config/fancymenu/button/2.png
+  description = 서버에 접속하시려면 클릭하세요 !
+  label = 
+  backgroundnormal = config/fancymenu/button/2.png
+  value = 61.109.20.223
+  height = 46
+}
+
+customization {
+  orientation = top-left
+  buttonaction = quitgame
+  x = 393
+  width = 52
+  action = addbutton
+  y = 218
+  backgroundhovered = config/fancymenu/button/4.png
+  description = 게임을 끝내시려면 클릭하세요 !
+  label = 
+  backgroundnormal = config/fancymenu/button/4.png
+  value = 
+  height = 25
+}
+
+customization {
+  orientation = top-left
+  buttonaction = openlink
+  x = 221
+  width = 59
+  action = addbutton
+  y = 201
+  backgroundhovered = config/fancymenu/button/cafe.png
+  description =  서버 카페를 엽니다.
+  label = 
+  backgroundnormal = config/fancymenu/button/cafe.png
+  value = cafe.naver.com/poris
+  height = 45
 }
 
