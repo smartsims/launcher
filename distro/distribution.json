@@ -319,15 +319,15 @@
           }
         },
         {
-          "id": "de.keksuccino:fancymenu:fancymenu:1.7.1@jar",
-          "name": "fancymenu",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 423347,
-            "url": "https://raw.githubusercontent.com/smartsims/Launcher/master/distro/servers/poris-1.12.2/forgemods/required/fancymenu_1.7.1_MC_1.12-1.12.2.jar",
-            "MD5": "A11690276B416BB129313F2987BC435C"
-            },
-            "subModules": [
+            "id": "de.keksuccino:fancymenu:fancymenu:1.7.1@jar",
+            "name": "fancymenu",
+            "type": "ForgeMod",
+            "artifact": {
+              "size": 423347,
+              "url": "https://raw.githubusercontent.com/smartsims/Launcher/master/distro/servers/poris-1.12.2/forgemods/required/fancymenu_1.7.1_MC_1.12-1.12.2.jar",
+              "MD5": "A11690276B416BB129313F2987BC435C"
+              },
+              "subModules": [
                 {
                     "id": "1.png",
                     "name": "fancymenu config",
