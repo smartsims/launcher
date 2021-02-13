@@ -15,10 +15,10 @@ customization {
   path = config/fancymenu/animations/poris/main.png
   orientation = top-left
   x = -1
-  width = 1920
+  width = 1280
   action = addtexture
   y = 0
-  height = 1080
+  height = 720
 }
 
 customization {
