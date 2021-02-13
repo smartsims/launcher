@@ -1,0 +1,111 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  renderorder = foreground
+}
+
+customization {
+  path = config/fancymenu/animations/minecraftyoutube/audio/mainaudio.wav
+  loop = true
+  action = addaudio
+}
+
+customization {
+  path = config/fancymenu/animations/minecraftyoutube/main.png
+  orientation = top-left
+  x = -1
+  width = 1920
+  action = addtexture
+  y = 0
+  height = 1080
+}
+
+customization {
+  showname = false
+  orientation = mid-left
+  crouching = true
+  x = 122
+  slim = false
+  action = addentity
+  y = 446
+  scale = 100
+  playername = %playername%
+  parrot = true
+}
+
+customization {
+  orientation = top-left
+  buttonaction = opengui
+  x = 174
+  width = 225
+  action = addbutton
+  y = 865
+  backgroundhovered = config/fancymenu/button/1.png
+  description = 설정메뉴를 엽니다.
+  label = 
+  backgroundnormal = config/fancymenu/button/1.png
+  value = net.minecraft.client.gui.GuiOptions
+  height = 109
+}
+
+customization {
+  orientation = top-left
+  buttonaction = joinserver
+  backgroundhovered = config/fancymenu/button/2.png
+  description = 서버에 입장합니다.
+  label = 
+  hoverlabel = 
+  x = 76
+  width = 319
+  action = addbutton
+  y = 649
+  backgroundnormal = config/fancymenu/button/2.png
+  value = 61.109.20.223
+  height = 151
+}
+
+customization {
+  orientation = top-left
+  buttonaction = openlink
+  x = 73
+  width = 214
+  action = addbutton
+  y = 548
+  backgroundhovered = config/fancymenu/button/discord.png
+  description = 서버 디스코드 링크를 엽니다.
+  label = 
+  backgroundnormal = config/fancymenu/button/discord.png
+  value = https://discord.gg/CYJJ8KY
+  height = 86
+}
+
+customization {
+  orientation = top-left
+  buttonaction = openlink
+  x = 48
+  width = 203
+  action = addbutton
+  y = 403
+  backgroundhovered = config/fancymenu/button/cafe.png
+  description = 서버 카페링크를 엽니다.
+  label = 
+  backgroundnormal = config/fancymenu/button/cafe.png
+  value = https://cafe.naver.com/poris
+  height = 142
+}
+
+customization {
+  orientation = top-left
+  buttonaction = quitgame
+  x = 1738
+  width = 226
+  action = addbutton
+  y = 884
+  backgroundhovered = config/fancymenu/button/4.png
+  label = 
+  backgroundnormal = config/fancymenu/button/4.png
+  value = 
+  height = 121
+}
+
