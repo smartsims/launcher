@@ -317,7 +317,7 @@
         },
         {
           "id": "creo.mod:koreanchat:1.12-1.9@jar",
-          "name": "Korean Chat",
+          "name": "Creo 한글채팅 모드",
           "type": "ForgeMod",
           "artifact": {
             "size": 30763,
@@ -360,7 +360,7 @@
         },
         {
           "id": "bre.smoothfont:smoothfont:mc1.12.2-1.16.2@jar",
-          "name": "Smooth Font",
+          "name": "폰트 개선모드 (Smooth Font)",
           "type": "ForgeMod",
           "artifact": {
             "size": 234311,
