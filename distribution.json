@@ -387,9 +387,9 @@
           "name": "main.png",
           "type": "File",
           "artifact": {
-            "size": 4914478,
+            "size": 4471373 ,
             "url": "https://raw.githubusercontent.com/smartsims/Launcher/master/servers/poris-1.12.2/files/config/fancymenu/animations/poris/main.png",
-            "MD5": "23b1b69dda2511b095d56c4ab60b2d1c",
+            "MD5": "202E1D64785941DA66742B748104BAF7",
             "path": "config/fancymenu/animations/poris/main.png"
           }
         },
