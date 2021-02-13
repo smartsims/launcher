@@ -486,9 +486,9 @@
           "name": "customizablemenus.txt",
           "type": "File",
           "artifact": {
-            "size": 112,
+            "size": 68,
             "url": "https://raw.githubusercontent.com/smartsims/Launcher/master/servers/poris-1.12.2/files/config/fancymenu/customizablemenus.txt",
-            "MD5": "38b527c800d9e2fd8b313a46b8a69197",
+            "MD5": "5AA808FF1FC4ED810D2A2FA03FF6F853",
             "path": "config/fancymenu/customizablemenus.txt"
           }
         },
@@ -508,9 +508,9 @@
           "name": "GuiMainMenu.txt",
           "type": "File",
           "artifact": {
-            "size": 2268,
+            "size": 2246,
             "url": "https://raw.githubusercontent.com/smartsims/Launcher/master/servers/poris-1.12.2/files/config/fancymenu/customization/GuiMainMenu.txt",
-            "MD5": "5217ae1f5b2090d38688f8860ee097d7",
+            "MD5": "F23ECE9AA872CF0948A9D0E57AC1C066",
             "path": "config/fancymenu/customization/GuiMainMenu.txt"
           }
         }
