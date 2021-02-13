@@ -475,9 +475,9 @@
           "name": "config.txt",
           "type": "File",
           "artifact": {
-            "size": 1852,
+            "size": 1853,
             "url": "https://raw.githubusercontent.com/smartsims/Launcher/master/servers/poris-1.12.2/files/config/fancymenu/config.txt",
-            "MD5": "D914135C7F6E0032D488E40DAD5387B1",
+            "MD5": "D2510933218E60096D79D641627D77C1",
             "path": "config/fancymenu/config.txt"
           }
         },
@@ -508,9 +508,9 @@
           "name": "GuiMainMenu.txt",
           "type": "File",
           "artifact": {
-            "size": 3789,
+            "size": 2371,
             "url": "https://raw.githubusercontent.com/smartsims/Launcher/master/servers/poris-1.12.2/files/config/fancymenu/customization/GuiMainMenu.txt",
-            "MD5": "15C89040497FEA268434C490BA0F8557",
+            "MD5": "32868F62A363E12095E2FBBE33355B48",
             "path": "config/fancymenu/customization/GuiMainMenu.txt"
           }
         }
