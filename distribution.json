@@ -349,13 +349,13 @@
           }
         },
         {
-          "id": "com.pixelextras:pixelextras:1.12.2-2.5.10-universal@jar",
+          "id": "com.pixelextras:pixelextras:1.12.2-2.5.7-universal@jar",
           "name": "Pixel Extras",
           "type": "ForgeMod",
           "artifact": {
-            "size": 158290,
-            "url": "https://raw.githubusercontent.com/smartsims/Launcher/master/servers/poris-1.12.2/forgemods/required/PixelExtras-1.12.2-2.5.11-universal.jar",
-            "MD5": "d0f4ed609924deec3dc49e52cecb9569"
+            "size": 156828,
+            "url": "https://raw.githubusercontent.com/smartsims/Launcher/master/servers/poris-1.12.2/forgemods/required/PixelExtras-1.12.2-2.5.7-universal.jar",
+            "MD5": "928757659AD0A64362F9759DAE5A10FB"
           }
         },
         {
