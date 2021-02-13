@@ -193,6 +193,16 @@
                 "url": "https://raw.githubusercontent.com/smartsims/Launcher/master/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
               }
             },
+			{
+			  "id": "com.pixelmonmod:pixelmon:pixelmon:8.0.2@jar",
+			  "name": "Pixelmon",
+			  "type": "ForgeMod",
+			  "artifact": {
+				"size": 416558351,
+				"url": "https://download.nodecdn.net/containers/reforged/universal/release/Pixelmon-1.12.2-8.0.2-universal.jar",
+				"MD5": "990E302998CCB07ED99A59276BEECE4F"
+			  }
+			},
             {
               "id": "java3d:vecmath:1.5.2@jar",
               "name": "Minecraft Forge (vecmath)",
