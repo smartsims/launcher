@@ -319,7 +319,7 @@
           }
         },
         {
-          "id": "metamorph:1.2.6-1.12.2@jar",
+          "id": "mchorse.metamorph:metamorph:1.2.6-1.12.2@jar",
           "name": "metamorph-1.2.6-1.12.2",
           "type": "ForgeMod",
           "artifact": {
