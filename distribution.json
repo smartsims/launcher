@@ -319,16 +319,6 @@
           }
         },
         {
-          "id": "mchorse.mclib:mclib:2.2.2-1.12.2@jar",
-          "name": "mclib-2.2.2-1.12.2",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 492045,
-            "url": "https://raw.githubusercontent.com/smartsims/Launcher/master/servers/poris-1.12.2/forgemods/required/mclib-2.2.2-1.12.2.jar",
-            "MD5": "F7E7EE41AD99B77915B673B8C791D188"
-          }
-        },
-        {
           "id": "mchorse.blockbuster:blockbuster:2.2.2-1.12.2@jar",
           "name": "blockbuster-2.2.2-1.12.2",
           "type": "ForgeMod",
