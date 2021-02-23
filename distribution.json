@@ -246,26 +246,6 @@
           }
         },
         {
-          "id": "biomesoplenty.core:biomesoplenty:7.0.1@jar",
-          "name": "Biomes O' Plenty",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4696621,
-            "url": "https://raw.githubusercontent.com/smartsims/Launcher/master/servers/poris-1.12.2/forgemods/required/BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar",
-            "MD5": "61fcc4ffff205ca261e61d6772debc4d"
-          }
-        },
-        {
-          "id": "net.jay113355.boppatch:BOP-Patch:1.0@jar",
-          "name": "BOP Patch",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5002,
-            "url": "https://raw.githubusercontent.com/smartsims/Launcher/master/servers/poris-1.12.2/forgemods/required/BOP-Patch-1.0.jar",
-            "MD5": "d57669b7624c011e350b2bb4c4a66949"
-          }
-        },
-        {
           "id": "mod.chiselsandbits.core:chiselsandbits:14.33@jar",
           "name": "Chisels & Bits",
           "type": "ForgeMod",
@@ -336,6 +316,36 @@
             "size": 2598821,
             "url": "https://raw.githubusercontent.com/smartsims/Launcher/master/servers/poris-1.12.2/forgemods/required/OptiFine_1.12.2_HD_U_F5.jar",
             "MD5": "043ac1db6f7441ea4cf31bcb621aff0b"
+          }
+        },
+        {
+          "id": "metamorph:1.2.6-1.12.2@jar",
+          "name": "metamorph-1.2.6-1.12.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 370624,
+            "url": "https://raw.githubusercontent.com/smartsims/Launcher/master/servers/poris-1.12.2/forgemods/required/metamorph-1.2.6-1.12.2.jar",
+            "MD5": "6950FF4993E8C09FDBAE27549A403A6D"
+          }
+        },
+        {
+          "id": "mclib:2.2.2-1.12.2@jar",
+          "name": "mclib-2.2.2-1.12.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 492045,
+            "url": "https://raw.githubusercontent.com/smartsims/Launcher/master/servers/poris-1.12.2/forgemods/required/mclib-2.2.2-1.12.2.jar",
+            "MD5": "F7E7EE41AD99B77915B673B8C791D188"
+          }
+        },
+        {
+          "id": "blockbuster:2.2.2-1.12.2@jar",
+          "name": "blockbuster-2.2.2-1.12.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1392124,
+            "url": "https://raw.githubusercontent.com/smartsims/Launcher/master/servers/poris-1.12.2/forgemods/required/blockbuster-2.2.2-1.12.2.jar",
+            "MD5": "858CA58C1AC838BA84B3A42036504A53"
           }
         },
         {
