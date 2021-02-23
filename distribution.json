@@ -329,7 +329,7 @@
           }
         },
         {
-          "id": "mclib:2.2.2-1.12.2@jar",
+          "id": "mchorse.mclib:mclib:2.2.2-1.12.2@jar",
           "name": "mclib-2.2.2-1.12.2",
           "type": "ForgeMod",
           "artifact": {
@@ -339,7 +339,7 @@
           }
         },
         {
-          "id": "blockbuster:blockbuster:2.2.2-1.12.2@jar",
+          "id": "mchorse.blockbuster:blockbuster:2.2.2-1.12.2@jar",
           "name": "blockbuster-2.2.2-1.12.2",
           "type": "ForgeMod",
           "artifact": {
@@ -349,7 +349,7 @@
           }
         },
         {
-          "id": "com.pam:harvestcraft:harvestcraft:1.12.2zg@jar",
+          "id": "com.pam:harvestcraft:1.12.2zg@jar",
           "name": "Pam's HarvestCraft",
           "type": "ForgeMod",
           "artifact": {
