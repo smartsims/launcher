@@ -319,16 +319,6 @@
           }
         },
         {
-          "id": "mchorse.metamorph:metamorph:1.2.6-1.12.2@jar",
-          "name": "metamorph-1.2.6-1.12.2",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 370624,
-            "url": "https://raw.githubusercontent.com/smartsims/Launcher/master/servers/poris-1.12.2/forgemods/required/metamorph-1.2.6-1.12.2.jar",
-            "MD5": "6950FF4993E8C09FDBAE27549A403A6D"
-          }
-        },
-        {
           "id": "mchorse.mclib:mclib:2.2.2-1.12.2@jar",
           "name": "mclib-2.2.2-1.12.2",
           "type": "ForgeMod",
