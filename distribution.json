@@ -339,7 +339,7 @@
           }
         },
         {
-          "id": "blockbuster:2.2.2-1.12.2@jar",
+          "id": "blockbuster:blockbuster:2.2.2-1.12.2@jar",
           "name": "blockbuster-2.2.2-1.12.2",
           "type": "ForgeMod",
           "artifact": {
@@ -349,7 +349,7 @@
           }
         },
         {
-          "id": "com.pam:harvestcraft:1.12.2zg@jar",
+          "id": "com.pam:harvestcraft:harvestcraft:1.12.2zg@jar",
           "name": "Pam's HarvestCraft",
           "type": "ForgeMod",
           "artifact": {
@@ -369,7 +369,7 @@
           }
         },
         {
-          "id": "journeymap:1.12.2-5.7.1@jar",
+          "id": "journeymap.common:common:1.12.2-5.7.1@jar",
           "name": "미니맵모드 (journeymap)",
           "type": "ForgeMod",
           "artifact": {
