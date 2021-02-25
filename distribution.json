@@ -432,7 +432,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 88,
+            "size": 195,
             "url": "https://raw.githubusercontent.com/smartsims/Launcher/master/servers/poris-1.12.2/files/options.txt",
             "path": "options.txt"
           }
