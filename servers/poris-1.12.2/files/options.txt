@@ -1,4 +1,4 @@
-resourcePacks:["포리스온라인"]
+resourcePacks:["포리스온라인2.zip"]
 lang:ko_kr
 guiScale:2
 forceUnicodeFont:true
