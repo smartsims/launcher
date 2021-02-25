@@ -417,14 +417,14 @@
           }
         },
         {
-          "id": "포리스온라인.png",
-          "name": "포리스온라인.png",
+          "id": "포리스온라인2.zip",
+          "name": "포리스온라인2.zip",
           "type": "File",
           "artifact": {
             "size": 118459717,
             "url": "https://www.dropbox.com/s/bgd3jpl3luf2wja/%ED%8F%AC%EB%A6%AC%EC%8A%A4%EC%98%A8%EB%9D%BC%EC%9D%B82.zip?dl=1",
             "MD5": "FFD9D90F88A169E15E47314C33A3391F",
-            "path": "resourcepacks/포리스온라인.zip"
+            "path": "resourcepacks/포리스온라인2.zip"
           }
         },
         {
@@ -432,7 +432,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 83,
+            "size": 88,
             "url": "https://raw.githubusercontent.com/smartsims/Launcher/master/servers/poris-1.12.2/files/options.txt",
             "path": "options.txt"
           }
