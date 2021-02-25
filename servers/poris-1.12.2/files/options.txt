@@ -1,2 +1,3 @@
 resourcePacks:["포리스온라인"]
 lang:ko_kr
+guiScale:2
