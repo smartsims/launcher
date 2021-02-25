@@ -438,6 +438,16 @@
           }
         },
         {
+          "id": "CustomNpcs.cfg",
+          "name": "CustomNpcs.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1570,
+            "url": "https://raw.githubusercontent.com/smartsims/Launcher/master/servers/poris-1.12.2/files/config/CustomNpcs.cfg",
+            "path": "config/CustomNpcs.cfg"
+          }
+        },
+        {
           "id": "properties.txt",
           "name": "properties.txt",
           "type": "File",
